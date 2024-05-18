@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 Documents/
+linkedin_scraper/
 
 # C extensions
 *.so

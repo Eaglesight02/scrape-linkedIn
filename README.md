@@ -11,5 +11,9 @@ Currently scraping profiles with (almost) all the different nuts and bolts that 
 ## It's better to use a virtual environment to manage the installs
 ### Creating a virtual environment in linux:
 ```py
-
+python -m venv "linkedin_scraper"
+```
+### Activate the venv:
+```py
+source <path_to_venv_folder>/bin/activate
 ```
