@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 Documents/
 linkedin_scraper/
+chromedriver-linux64/
 
 # C extensions
 *.so
