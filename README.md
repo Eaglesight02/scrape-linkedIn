@@ -17,3 +17,15 @@ python -m venv "linkedin_scraper"
 ```py
 source <path_to_venv_folder>/bin/activate
 ```
+
+
+## Download chrome and chromedriver for linux based system (debian with apt):
+- Update repositories:
+```sh
+sudo apt update
+```
+- Download the latest version of chromium-browser from ubuntu's official PPA (Personal Package respository)
+```sh
+sudo apt install -y chromium-browser
+```
+- Note: In ubuntu-based systems, it needs snap to work properly (for newer versions, it is installed by default) - need to put the versions of ubuntu here
