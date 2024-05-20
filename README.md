@@ -62,5 +62,6 @@ sudo mv chromedriver-linux64/chromedriver /usr/local/bin
 - Remove the downloaded zip file after successful installation
 ```sh
 # Make sure you are in the same directory as the downloaded zip file
+sudo rm -rf chromedriver-linux64
 sudo rm -rf chromedriver-linux64.zip
 ```
