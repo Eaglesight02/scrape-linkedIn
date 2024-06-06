@@ -6,10 +6,10 @@ Currently ccraping profiles with (almost) all the different nuts and bolts that 
 
 # Requirements:
 
-- python(<=3.12.3)
-- pip(>=24.0)
-- selenium(Python client, version = 4.21.0)
-- google-generativeai(0.5.4)
+- [Python](https://www.python.org/downloads/release/python-3123/)(<=3.12.3)
+- [pip (package installer for Python)](https://pypi.org/project/pip/24.0/)(>=24.0)
+- [Selenium Python webdriver](https://pypi.org/project/selenium/)(Python client, version = 4.21.0)
+- [google-generativeai SDK for Python](https://pypi.org/project/google-generativeai/)(0.5.4)
 
 ---
 
